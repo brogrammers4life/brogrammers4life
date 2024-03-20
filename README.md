@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=brogrammers4life&color=blue&style=for-the-badge&label=VIEWS)
 <!--
 **brogrammers4life/brogrammers4life** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
